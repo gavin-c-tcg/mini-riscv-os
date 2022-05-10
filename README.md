@@ -10,6 +10,8 @@ Mini-riscv-os was inspired by [jserv](https://github.com/jserv)'s [mini-arm-os](
 
 However, [ccckmit](https://github.com/ccckmit) rewrite the project for RISC-V, and run on Win10 instead of Linux.
 
+video: https://www.youtube.com/watch?v=3qY4FfmkWqE
+
 ## Build & Run on Windows 10
 
 - [git-bash](https://git-scm.com/download/win)
